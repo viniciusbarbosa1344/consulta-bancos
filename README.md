@@ -8,7 +8,7 @@ Essa aplicação consiste em um sistema de listagem de bancos disversos, permiti
 
 ## Tecnologias Utilizadas
 - React
-- TailWindCSS
+- TailwindCSS
 - Nest
 - TypeScript
 - PrismaORM
