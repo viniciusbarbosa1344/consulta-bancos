@@ -13,7 +13,7 @@ npm install
 Passo 3: Criar um arquivo .env na raiz do projeto com as seguintes informações
 ```python
 PORT=3000
-DATABASE_URL="postgresql://admin:admin@localhost:5432/revgas?schema=public"
+DATABASE_URL="mysql://admin:admin@localhost:3306/revgas"
 ```
 
 Passo 03: Rodar o conteiner Docker (PostgreSQL)
