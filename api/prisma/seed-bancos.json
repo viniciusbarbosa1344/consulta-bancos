@@ -1,0 +1,524 @@
+{
+	"bancos": [
+		{
+			"codigo_de_compensacao": 1,
+			"nome_instituicao": "Banco do Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 3,
+			"nome_instituicao": "Banco da Amazonia S.A."
+		},
+		{
+			"codigo_de_compensacao": 4,
+			"nome_instituicao": "Banco do Nordeste do Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 12,
+			"nome_instituicao": "Banco Standard de Investimentos S.A."
+		},
+		{
+			"codigo_de_compensacao": 14,
+			"nome_instituicao": "Natixis Brasil S.A. Banco Múltiplo"
+		},
+		{
+			"codigo_de_compensacao": 19,
+			"nome_instituicao": "Banco Azteca do Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 21,
+			"nome_instituicao": "Banestes S.A. Banco do Estado do Espírito Santo S.A."
+		},
+		{
+			"codigo_de_compensacao": 24,
+			"nome_instituicao": "Banco de Pernambuco S.A. – BANDEPE"
+		},
+		{
+			"codigo_de_compensacao": 25,
+			"nome_instituicao": "Banco Alfa S.A"
+		},
+		{
+			"codigo_de_compensacao": 29,
+			"nome_instituicao": "Banco Banerj S.A"
+		},
+		{
+			"codigo_de_compensacao": 31,
+			"nome_instituicao": "Banco Beg S.A."
+		},
+		{
+			"codigo_de_compensacao": 33,
+			"nome_instituicao": "Banco Santander (Brasil) S.A"
+		},
+		{
+			"codigo_de_compensacao": 36,
+			"nome_instituicao": "Banco Bradesco BBI S.A."
+		},
+		{
+			"codigo_de_compensacao": 37,
+			"nome_instituicao": "Banco do Estado do Pará S.A"
+		},
+		{
+			"codigo_de_compensacao": 40,
+			"nome_instituicao": "Banco Cargil S.A"
+		},
+		{
+			"codigo_de_compensacao": 41,
+			"nome_instituicao": "Banco do Estado do Rio Grade do Sul S.A."
+		},
+		{
+			"codigo_de_compensacao": 44,
+			"nome_instituicao": "Banco BVA S.A"
+		},
+		{
+			"codigo_de_compensacao": 45,
+			"nome_instituicao": "Banco Opportunity S.A."
+		},
+		{
+			"codigo_de_compensacao": 47,
+			"nome_instituicao": "Banco do Estado de Sergipe S.A"
+		},
+		{
+			"codigo_de_compensacao": 62,
+			"nome_instituicao": "Hipercard Banco Múltiplo S.A"
+		},
+		{
+			"codigo_de_compensacao": 63,
+			"nome_instituicao": "Banco IBI S.A. – Banco Múltiplo"
+		},
+		{
+			"codigo_de_compensacao": 65,
+			"nome_instituicao": "Banco Lemon S.A"
+		},
+		{
+			"codigo_de_compensacao": 66,
+			"nome_instituicao": "Banco Morgan Stanley S.A"
+		},
+		{
+			"codigo_de_compensacao": 69,
+			"nome_instituicao": "BPN Brasil Banco Múltiplo S.A."
+		},
+		{
+			"codigo_de_compensacao": 70,
+			"nome_instituicao": "BRB – Banco de Brasilia S.A"
+		},
+		{
+			"codigo_de_compensacao": 72,
+			"nome_instituicao": "Banco Rural Mais S.A"
+		},
+		{
+			"codigo_de_compensacao": 73,
+			"nome_instituicao": "BB Banco Popular do Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 74,
+			"nome_instituicao": "Banco J. Safra S.A"
+		},
+		{
+			"codigo_de_compensacao": 75,
+			"nome_instituicao": "Banco CR2 S\/A"
+		},
+		{
+			"codigo_de_compensacao": 76,
+			"nome_instituicao": "Banco KEB do Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 77,
+			"nome_instituicao": "Banco Inter S\/A"
+		},
+		{
+			"codigo_de_compensacao": 78,
+			"nome_instituicao": "BES Investimentos do Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 79,
+			"nome_instituicao": "JBS Banco S\/A"
+		},
+		{
+			"codigo_de_compensacao": 81,
+			"nome_instituicao": "Concórdia Banco S.A."
+		},
+		{
+			"codigo_de_compensacao": 82,
+			"nome_instituicao": "Banco Topázio S.A"
+		},
+		{
+			"codigo_de_compensacao": 83,
+			"nome_instituicao": "Banco da China Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 96,
+			"nome_instituicao": "Banco BM&F de Serviços de Liquidação e Custodia S.A."
+		},
+		{
+			"codigo_de_compensacao": 104,
+			"nome_instituicao": "Caixa Econômica Federal"
+		},
+		{
+			"codigo_de_compensacao": 107,
+			"nome_instituicao": "Banco BBM S\/A"
+		},
+		{
+			"codigo_de_compensacao": 151,
+			"nome_instituicao": "Banco Nossa Caixa S.A"
+		},
+		{
+			"codigo_de_compensacao": 184,
+			"nome_instituicao": "Banco Itaú BBA S.A."
+		},
+		{
+			"codigo_de_compensacao": 204,
+			"nome_instituicao": "Banco Bradesco Cartões S.A."
+		},
+		{
+			"codigo_de_compensacao": 208,
+			"nome_instituicao": "Banco UBS Pactual S.A."
+		},
+		{
+			"codigo_de_compensacao": 212,
+			"nome_instituicao": "Banco Matone S.A."
+		},
+		{
+			"codigo_de_compensacao": 213,
+			"nome_instituicao": "Banco Arbi S.A."
+		},
+		{
+			"codigo_de_compensacao": 214,
+			"nome_instituicao": "Banco Dibens S.A"
+		},
+		{
+			"codigo_de_compensacao": 215,
+			"nome_instituicao": "Banco Comercial e de Investimento Sudameris S.A."
+		},
+		{
+			"codigo_de_compensacao": 217,
+			"nome_instituicao": "Banco John Deere S.A."
+		},
+		{
+			"codigo_de_compensacao": 218,
+			"nome_instituicao": "Banco Bonsucesso S.A."
+		},
+		{
+			"codigo_de_compensacao": 222,
+			"nome_instituicao": "Banco Calyon brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 224,
+			"nome_instituicao": "Banco Fibra S.A"
+		},
+		{
+			"codigo_de_compensacao": 225,
+			"nome_instituicao": "Banco Brascan S.A."
+		},
+		{
+			"codigo_de_compensacao": 229,
+			"nome_instituicao": "Banco Cruzeiro Do Sul S.A."
+		},
+		{
+			"codigo_de_compensacao": 230,
+			"nome_instituicao": "Unicard Banco Múltiplo S.A."
+		},
+		{
+			"codigo_de_compensacao": 233,
+			"nome_instituicao": "Banco GE Capital S.A."
+		},
+		{
+			"codigo_de_compensacao": 237,
+			"nome_instituicao": "Banco Bradesco S.A."
+		},
+		{
+			"codigo_de_compensacao": 241,
+			"nome_instituicao": "Banco Classico S.A."
+		},
+		{
+			"codigo_de_compensacao": 243,
+			"nome_instituicao": "Banco Máxima S.A."
+		},
+		{
+			"codigo_de_compensacao": 246,
+			"nome_instituicao": "Banco ABC Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 248,
+			"nome_instituicao": "Banco Boavista Interatlantico S.A"
+		},
+		{
+			"codigo_de_compensacao": 249,
+			"nome_instituicao": "Banco Investicred Unibanco S.A."
+		},
+		{
+			"codigo_de_compensacao": 250,
+			"nome_instituicao": "Banco Schahin S.A."
+		},
+		{
+			"codigo_de_compensacao": 254,
+			"nome_instituicao": "Paraná Banco S.A."
+		},
+		{
+			"codigo_de_compensacao": 263,
+			"nome_instituicao": "Banco Cacique S.A."
+		},
+		{
+			"codigo_de_compensacao": 265,
+			"nome_instituicao": "Banco Fator S.A"
+		},
+		{
+			"codigo_de_compensacao": 266,
+			"nome_instituicao": "Banco Cedula S.A"
+		},
+		{
+			"codigo_de_compensacao": 300,
+			"nome_instituicao": "Banco de La Nacion Argentina"
+		},
+		{
+			"codigo_de_compensacao": 318,
+			"nome_instituicao": "Banco BMG S.A."
+		},
+		{
+			"codigo_de_compensacao": 320,
+			"nome_instituicao": "Banco Industrial e Comercial S.A"
+		},
+		{
+			"codigo_de_compensacao": 341,
+			"nome_instituicao": "Banco Itaú S.A"
+		},
+		{
+			"codigo_de_compensacao": 366,
+			"nome_instituicao": "Banco Societé Generale Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 370,
+			"nome_instituicao": "Banco Westlb do Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 376,
+			"nome_instituicao": "Banco J.P. Morgan S.A."
+		},
+		{
+			"codigo_de_compensacao": 389,
+			"nome_instituicao": "Banco Mercantil do Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 394,
+			"nome_instituicao": "Banco Finasa BMC S.A."
+		},
+		{
+			"codigo_de_compensacao": 399,
+			"nome_instituicao": "HSBC Bank Brasil S.A. – Banco Múltiplo"
+		},
+		{
+			"codigo_de_compensacao": 409,
+			"nome_instituicao": "Unibanco-União de Bancos Brasileiros S.A"
+		},
+		{
+			"codigo_de_compensacao": 412,
+			"nome_instituicao": "Banco Capital S.A."
+		},
+		{
+			"codigo_de_compensacao": 422,
+			"nome_instituicao": "Banco Safra S.A."
+		},
+		{
+			"codigo_de_compensacao": 453,
+			"nome_instituicao": "Banco Rural S.A"
+		},
+		{
+			"codigo_de_compensacao": 456,
+			"nome_instituicao": "Banco de Tokyo-Mitsubishi UFJ Brasil S\/A"
+		},
+		{
+			"codigo_de_compensacao": 464,
+			"nome_instituicao": "Banco Sumitomo Mitsui Brasileiro S.A"
+		},
+		{
+			"codigo_de_compensacao": 473,
+			"nome_instituicao": "Banco Caixa Geral – Brasil S.A."
+		},
+		{
+			"codigo_de_compensacao": 477,
+			"nome_instituicao": "Citibank N.A."
+		},
+		{
+			"codigo_de_compensacao": 479,
+			"nome_instituicao": "Banco Itaubank S.A"
+		},
+		{
+			"codigo_de_compensacao": 487,
+			"nome_instituicao": "Deutsche Bank S.A. – Banco Alemao"
+		},
+		{
+			"codigo_de_compensacao": 488,
+			"nome_instituicao": "JPMorgan Chase Bank, National Association"
+		},
+		{
+			"codigo_de_compensacao": 492,
+			"nome_instituicao": "Ing Bank N.V."
+		},
+		{
+			"codigo_de_compensacao": 494,
+			"nome_instituicao": "Banco de la Republica Oriental del Uruguay"
+		},
+		{
+			"codigo_de_compensacao": 495,
+			"nome_instituicao": "Banco de la Provincia de Buenos Aires"
+		},
+		{
+			"codigo_de_compensacao": 505,
+			"nome_instituicao": "Banco Credit Suisse (Brasil) S.A."
+		},
+		{
+			"codigo_de_compensacao": 600,
+			"nome_instituicao": "Banco Luso Brasileiro S.A"
+		},
+		{
+			"codigo_de_compensacao": 604,
+			"nome_instituicao": "Banco Industrial Do Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 610,
+			"nome_instituicao": "Banco VR S.A"
+		},
+		{
+			"codigo_de_compensacao": 611,
+			"nome_instituicao": "Banco Paulista S.A."
+		},
+		{
+			"codigo_de_compensacao": 612,
+			"nome_instituicao": "Banco Guanabara S.A."
+		},
+		{
+			"codigo_de_compensacao": 613,
+			"nome_instituicao": "Banco Pecunia S.A"
+		},
+		{
+			"codigo_de_compensacao": 623,
+			"nome_instituicao": "Banco Panamericano S.A."
+		},
+		{
+			"codigo_de_compensacao": 626,
+			"nome_instituicao": "Banco Ficsa S.A"
+		},
+		{
+			"codigo_de_compensacao": 630,
+			"nome_instituicao": "Banco Intercap S.A"
+		},
+		{
+			"codigo_de_compensacao": 633,
+			"nome_instituicao": "Banco Rendimento S.A."
+		},
+		{
+			"codigo_de_compensacao": 634,
+			"nome_instituicao": "Banco Triangulo S.A."
+		},
+		{
+			"codigo_de_compensacao": 637,
+			"nome_instituicao": "Banco Sofisa S.A"
+		},
+		{
+			"codigo_de_compensacao": 638,
+			"nome_instituicao": "Banco Prosper S.A."
+		},
+		{
+			"codigo_de_compensacao": 641,
+			"nome_instituicao": "Banco Alvorada S.A."
+		},
+		{
+			"codigo_de_compensacao": 643,
+			"nome_instituicao": "Banco Pine S.A."
+		},
+		{
+			"codigo_de_compensacao": 652,
+			"nome_instituicao": "Itaú Unibanco Banco Múltiplo S.A"
+		},
+		{
+			"codigo_de_compensacao": 653,
+			"nome_instituicao": "Banco Indusval S.A."
+		},
+		{
+			"codigo_de_compensacao": 654,
+			"nome_instituicao": "Banco A.J. Renner S.A"
+		},
+		{
+			"codigo_de_compensacao": 655,
+			"nome_instituicao": "Banco Votorantim S.A"
+		},
+		{
+			"codigo_de_compensacao": 707,
+			"nome_instituicao": "Banco Daycoval S.A."
+		},
+		{
+			"codigo_de_compensacao": 719,
+			"nome_instituicao": "Banif – Banco Internacional do Funchal (Brasil), S.A"
+		},
+		{
+			"codigo_de_compensacao": 721,
+			"nome_instituicao": "Banco Credibel S.A."
+		},
+		{
+			"codigo_de_compensacao": 734,
+			"nome_instituicao": "Banco Gerdau S.A"
+		},
+		{
+			"codigo_de_compensacao": 735,
+			"nome_instituicao": "Banco Pottencial S.A"
+		},
+		{
+			"codigo_de_compensacao": 738,
+			"nome_instituicao": "Banco Morada S.A"
+		},
+		{
+			"codigo_de_compensacao": 739,
+			"nome_instituicao": "Banco BGN S.A."
+		},
+		{
+			"codigo_de_compensacao": 740,
+			"nome_instituicao": "Banco Barclays S.A"
+		},
+		{
+			"codigo_de_compensacao": 741,
+			"nome_instituicao": "Banco Ribeirao Preto S.A"
+		},
+		{
+			"codigo_de_compensacao": 743,
+			"nome_instituicao": "Banco Semear S.A."
+		},
+		{
+			"codigo_de_compensacao": 745,
+			"nome_instituicao": "Banco Citibank S.A."
+		},
+		{
+			"codigo_de_compensacao": 746,
+			"nome_instituicao": "Banco Modal S.A"
+		},
+		{
+			"codigo_de_compensacao": 747,
+			"nome_instituicao": "Banco Rabobank International Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 748,
+			"nome_instituicao": "Banco Cooperativo Sicredi S.A."
+		},
+		{
+			"codigo_de_compensacao": 749,
+			"nome_instituicao": "Banco Simples S.A"
+		},
+		{
+			"codigo_de_compensacao": 751,
+			"nome_instituicao": "Dresdner Bank Brasil S.A. Banco Multiplo"
+		},
+		{
+			"codigo_de_compensacao": 752,
+			"nome_instituicao": "Banco BNP Paribas Brasil S.A"
+		},
+		{
+			"codigo_de_compensacao": 753,
+			"nome_instituicao": "NBC Bank Brasil S. A. – Banco Múltiplo"
+		},
+		{
+			"codigo_de_compensacao": 756,
+			"nome_instituicao": "Banco Cooperativo do Brasil S.A. – Bancoob"
+		},
+		{
+			"codigo_de_compensacao": 757,
+			"nome_instituicao": "Banco KEB do Brasil S.A."
+		}
+	]
+}
