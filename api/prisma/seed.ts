@@ -23,4 +23,5 @@ seedScript()
   })
   .finally(async () => {
     await prismaService.$disconnect();
+    process.exit(1);
   });
