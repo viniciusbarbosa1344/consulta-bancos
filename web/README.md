@@ -14,3 +14,6 @@ Passo 3: Rodar a WEB
 ```bash
 npm run dev
 ```
+
+Passo 4: Clicar no link gerado e testar a aplicação 
+-  ➜  Local:   http://localhost:5173/ 
